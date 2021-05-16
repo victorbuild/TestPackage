@@ -1,0 +1,16 @@
+{
+    "name": "victor/test-package",
+    "description": "test",
+    "authors": [
+        {
+            "name": "victor",
+            "email": "alisw551@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "VictorBuild\\TestPackage\\": "src"
+        }
+    }
+}
